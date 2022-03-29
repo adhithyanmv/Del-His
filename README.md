@@ -13,19 +13,26 @@ This will only works on windows chrome atleast for now and Hopefully by the next
 
 ## Usage with Screenshots
 
+**1 Before Deleting Histories**
+
 <br>
 
-**1 Before Deleting Histories**
 <img src="./src/img/screenshot1.png" width="80%" height="50%">
 
 <br>
 
 **2 Clearing**
+
+<br>
+
 <img src="./src/img/Screenshot2.png" width="80%" height="50%">
 
 <br>
 
 **3 After Deleting Histories**
+
+<br>
+
 <img src="./src/img/Screenshot3.png" width="80%" height="50%">
 
 <br>
