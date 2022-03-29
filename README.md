@@ -1,6 +1,6 @@
 ## About
 
-<img src="./src/img/screenshot4.png" height="40%">
+<img src="./src/img/screenshot4.png" height="40%" width="30%">
 
 <br>
 <br>
@@ -21,12 +21,12 @@ This will only works on windows chrome atleast for now and Hopefully by the next
 <br>
 
 **2 Clearing**
-<img src="./src/img/screenShot2.png" width="80%" height="50%">
+<img src="./src/img/Screenshot2.png" width="80%" height="50%">
 
 <br>
 
 **3 After Deleting Histories**
-<img src="./src/img/screenShot3.png" width="80%" height="50%">
+<img src="./src/img/Screenshot3.png" width="80%" height="50%">
 
 <br>
 
