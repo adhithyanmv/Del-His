@@ -5,7 +5,7 @@
 <br>
 <br>
 
-The tool which will automatically delete the Chrome history by just givin the website like <b>tryackme</b> instead of <b>https://tryhackme.com/dashboard</b>
+The tool which will automatically delete the Chrome history by just givin the website like <b>tryackme</b> instead of giving the whole like this <b>https://tryhackme.com/dashboard</b> 
 
 ## Usage with Screenshots
 
