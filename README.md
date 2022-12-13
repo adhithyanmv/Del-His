@@ -5,11 +5,7 @@
 <br>
 <br>
 
-Aaah Yes! Another day, gotta wake up, pick your brush, brush your teeth, eat breakfast, getting ready and most importantly clear the browser history 🦄.
-well yeah i got you, this tool can help you with that, just type `dltHisWin.py -add` for adding the websites that you want to clear all time.
-you dont have to give the exact url like `https://www.quora.com/How-do-I-get-a-girlfriend-in-4-steps` instead you can just give `quora` its that simple.
-once you gave the urls, you dont have to do that again all time unless you want to add something more and to run this tool, just type `dltHisWin.py`.
-This will only works on windows chrome atleast for now and Hopefully by the next update this tool can be used in any platform
+The tool which will automatically delete the Chrome history by just givin the website like <b>tryackme</b> instead of <b>https://tryhackme.com/dashboard</b>
 
 ## Usage with Screenshots
 
